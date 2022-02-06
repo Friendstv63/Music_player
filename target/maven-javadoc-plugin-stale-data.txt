@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/sugan/.m2/repository/com/mpatric/mp3agic/0.9.1/mp3agic-0.9.1.jar;C:/Users/sugan/.m2/repository/com/jfoenix/jfoenix/8.0.1/jfoenix-8.0.1.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ktplayer 0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ktplayer 0.1 API'
+com.ktplayer
+'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/src/main/java/com/ktplayer/Controller.java'
+'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/src/main/java/com/ktplayer/Main.java'
+'C:/Users/sugan/Downloads/DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE/Music Player/src/main/java/com/ktplayer/Song.java'
+C:\Users\sugan\.m2\repository\com\mpatric\mp3agic\0.9.1\mp3agic-0.9.1.jar = 1643683135072
+C:\Users\sugan\.m2\repository\com\jfoenix\jfoenix\8.0.1\jfoenix-8.0.1.jar = 1643683138938
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\src\main\java = 1522080778000
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\allclasses-frame.html = 1643859493382
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\allclasses-noframe.html = 1643859493387
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\constant-values.html = 1643859493121
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\deprecated-list.html = 1643859493375
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\help-doc.html = 1643859493408
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\index-all.html = 1643859493362
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\index.html = 1643859493396
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\overview-tree.html = 1643859493298
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\package-list = 1643859493036
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\script.js = 1643859493420
+C:\Users\sugan\Downloads\DESKTOP_MUSIC_PLAYER_APPLICATION_IN_JAVA_WITH_SOURCE_CODE\Music Player\target\site\apidocs\stylesheet.css = 1643859493417
